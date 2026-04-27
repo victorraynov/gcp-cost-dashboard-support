@@ -1,2 +1,3 @@
-# gcp-cost-dashboard-support
-Purchased the dashboard? Report bugs and request features here.                                                                                                                 
+  # GCP Cost Dashboard — Support                                                                                                                                                  
+                                                                                                                                                                                  
+  Purchased the dashboard? Report bugs and request features here. 
